@@ -1,0 +1,10 @@
+1. Sabse Pehle Git me Login karo
+2. uske baad fir koi file create karo
+3. fir git me add karo 
+4. fir commit karo
+5. fir remote link ko copy karke  git remote add origin https://github.com/bhagwanshukracharya/my_repo.git
+6. fir username   git config --global user.name " bhagwanshukracharya"
+7. fir useremail  git config --global user.email "bhagwanshukracharya@gmail.com"
+8. check karne ke liye  git config --list
+9. push karne ke liye git push -u origin master
+10. that's all. thankyou
